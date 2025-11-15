@@ -1,10 +1,16 @@
 # Heterogeneous transfer learning for highly non-linear regression tasks
-
-This repository contains the implementation of the methods and their competitors described in:
-
-**Youba Abed, Julien Jacques, Victor Costa, Benoît Celse, Denis Guillaume, et al.. Heterogeneous transfer learning for highly non-linear regression tasks with application to the hydrotreatment of tire pyrolysis feedstocks. 2025. ⟨hal-05349994⟩**
-
+This repository contains the implementation of the methods and their competitors described in the article:
+**"Heterogeneous transfer learning for highly non-linear regression tasks with application to hydrotreatment reactors"**  
 [View the article on HAL](https://hal.science/hal-05349994)
+
+---
+## Citation
+If you use this code, please cite:
+```
+Youba Abed, Julien Jacques, Victor Costa, Benoît Celse, Denis Guillaume, et al.. 
+Heterogeneous transfer learning for highly non-linear regression tasks with application 
+to the hydrotreatment of tire pyrolysis feedstocks. 2025. ⟨hal-05349994⟩
+```
 
 ---
 ## Repository contents
